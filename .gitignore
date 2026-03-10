@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Backups (too large for git)
+gateway-backups/*.tar.gz
+gateway-backups/*.gwbk
+
+# Docker volumes
+data/
+
+# OS
+.DS_Store
+Thumbs.db
